@@ -1,0 +1,5 @@
+{
+  "name": "HIFI 线材架构师",
+  "description": "一个基于 AI 的发烧线材设计模拟工具。输入结构、材料或图纸，分析理论物理参数并预测声音特性。",
+  "requestFramePermissions": []
+}
